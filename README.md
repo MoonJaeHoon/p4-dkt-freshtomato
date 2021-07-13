@@ -13,6 +13,10 @@
 #### Metric
 **AUROC**, Accuracy
 
+## Summary
+![image](https://user-images.githubusercontent.com/54096561/125475228-8fdea866-91cf-4057-bd1d-d24aff433ac2.png)
+
+
 </br>
 
 ## Pipeline
